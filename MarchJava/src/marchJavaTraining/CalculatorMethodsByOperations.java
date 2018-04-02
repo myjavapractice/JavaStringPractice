@@ -7,11 +7,8 @@ public class CalculatorMethodsByOperations {
  	void addtion()
  {
 	 	result=fnum+snum;
-<<<<<<< HEAD
 		System.out.println("Sum of 2 numbers: "+result);//comment
-=======
 		System.out.println("Sum of 2 numbers: "+result);
->>>>>>> ff9ba963f6ad8094e51414c6d11288b00d643527
 	 }
    void subtraction()
  {
