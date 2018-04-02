@@ -6,7 +6,11 @@ public class CalculatorDoWhile {
 		Scanner sc = new Scanner(System.in);
 		double fnum,snum,result;
 		char choice;
+<<<<<<< HEAD
 		System.out.println("1. Addition");//comment
+=======
+		System.out.println("1. Addition");
+>>>>>>> ff9ba963f6ad8094e51414c6d11288b00d643527
 		System.out.println("2. subtraction");
 		System.out.println("3. multiplication");
 		System.out.println("4. division");
