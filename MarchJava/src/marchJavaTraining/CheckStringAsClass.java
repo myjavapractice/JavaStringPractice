@@ -17,7 +17,7 @@ public class CheckStringAsClass
 	{
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter the string: ");
+		System.out.print("Enter the string: ");//comment
 		checkString = sc.next();
 		checkLength();
 	}

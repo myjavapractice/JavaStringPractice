@@ -2,7 +2,7 @@ package marchJavaTraining;
 
 public class CalculatorBasic {
 	public static void main(String[] args) {
-		int num1 = 10;
+		int num1 = 10;//int
 		int num2 = 20;
 	    int addResult = num1+num2;
 		int subResult = num1-num2;

@@ -7,7 +7,7 @@ public class Mar14_CalculatorInputsInMethods {
  	void addtion(int fnum, int snum)
  {
 	 	result=fnum+snum;
-		System.out.println("Sum of 2 numbers: "+result);
+		System.out.println("Sum of 2 numbers: "+result);//comment
 	 }
    void subtraction(int fnum, int snum)
  {

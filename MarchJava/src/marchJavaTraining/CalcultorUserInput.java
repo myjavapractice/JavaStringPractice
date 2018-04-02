@@ -8,7 +8,7 @@ public class CalcultorUserInput {
 		double fnum,snum,result;
 		System.out.println("Enter first number:");
 		fnum=sc.nextDouble();
-		System.out.println("Enter second number:");
+		System.out.println("Enter second number:");//comment
 		snum=sc.nextDouble();
 		result=fnum+snum;
 		System.out.println("result:" + result);

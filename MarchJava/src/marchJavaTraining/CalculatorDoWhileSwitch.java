@@ -9,7 +9,7 @@ public class CalculatorDoWhileSwitch {
 		char choice;
 		do
 		{
-		System.out.println("1. Addition");
+		System.out.println("1. Addition");//comment
 		System.out.println("2. subtraction");
 		System.out.println("3. multiplication");
 		System.out.println("4. division");

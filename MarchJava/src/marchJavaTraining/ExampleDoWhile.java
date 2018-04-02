@@ -4,7 +4,7 @@ public class ExampleDoWhile {
 	      int x = 10;
 
 	      do {
-	         System.out.print("value of x : " + x );
+	         System.out.print("value of x : " + x );//comment
 	         x++;
 	         System.out.print("\n");
 	      }while( x < 20 );
